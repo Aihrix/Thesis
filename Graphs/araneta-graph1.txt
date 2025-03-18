@@ -1,0 +1,49 @@
+# Araneta network distance (in m) and travel time (in seconds)
+# delimiter ','
+Act Theater Building, Puregold Cubao, 69, 49
+Act Theater Building, UV Express Terminal, 200, 141
+Puregold Cubao, AIA, 80, 56
+Puregold Cubao, Farmers Plaza, 132, 93
+AIA, Isetann Cubao, 170, 120
+AIA, 7-Eleven Gateway, 60, 42
+Isetann Cubao, Jollibee Manhattan, 110, 77
+Isetann Cubao, New Frontier Theater, 51, 36
+Jollibee Manhattan, Mercury Drug Cubao, 177, 125
+Jollibee Manhattan, Manhattan Parkview, 50, 42
+Mercury Drug Cubao, Tropical Hut Cubao, 50, 42
+7-Eleven Gateway, New Frontier Theater, 178, 125
+7-Eleven Gateway, Ibis Styles Araneta, 92, 65
+New Frontier Theater, Manhattan Parkview, 95, 67
+New Frontier Theater, KFC Shopwise, 92, 65
+Manhattan Parkview, Tropical Hut Cubao, 164, 115
+Manhattan Parkview, Burger King Manhattan, 90, 63
+Tropical Hut Cubao, Savemore Cubao, 80, 56
+UV Express Terminal, Farmers Plaza, 90, 63
+UV Express Terminal, MRT Cubao, 115, 81
+Farmers Plaza, Ibis Styles Araneta, 86, 61
+Ibis Styles Araneta, KFC Shopwise, 189, 133
+Ibis Styles Araneta, Gateway 2, 116, 82
+KFC Shopwise, Burger King Manhattan, 113, 80
+KFC Shopwise, Cyberpark Tower 1, 238, 168
+Burger King Manhattan, Savemore Cubao, 122, 86
+Burger King Manhattan, Cubao Transport Terminal, 230, 162
+Savemore Cubao, Manhattan Heights, 260, 183
+MRT Cubao, Gateway 2, 170, 120
+MRT Cubao, Farmers Market, 150, 106
+MRT Cubao, BDO EDSA, 155, 109
+Gateway 2, Farmers Garden, 128, 90
+BDO EDSA, Farmers Market, 50, 35
+BDO EDSA, cor P Tuazon, 197, 139
+Farmers Market, Farmers Garden, 88, 62
+Farmers Garden, Telus, 70, 49
+Farmers Garden, Cyberpark Tower 2, 152, 107
+Telus, Cyberpark Tower 2, 80, 56
+Telus, Cyberpark Tower 1, 66, 46
+Cyberpark Tower 1, Cubao Transport Terminal, 150, 106
+Cyberpark Tower 1, SM Cubao, 202, 142
+Cubao Transport Terminal, Manhattan Heights, 155, 109
+Cubao Transport Terminal, Ali Mall, 197, 139
+Manhattan Heights, Meralco Business Center, 175, 123
+cor P Tuazon, SM Cubao, 400, 282
+SM Cubao, Ali Mall, 140, 99
+Ali Mall, Meralco Business Center, 200, 141

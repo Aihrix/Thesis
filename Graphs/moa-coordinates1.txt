@@ -1,0 +1,36 @@
+# MOA network coordinates
+# delimiter ','
+Three E-com Center, 9.289, 4.660
+Four E-com Center, 9.445, 3.601
+SM Corporate Bldg. A, 9.665, 2.186
+Shore Residences 1, 9.799, 0.945
+Sands by the Bay, 8.184, 5.927
+Two E-com Center, 8.165, 4.695
+Five E-com Center, 8.148, 3.575
+STSI, 8.119, 2.464
+SM Corporate Bldg. B, 8.113, 1.865
+Shore Residences 3, 8.096, 0.589
+Four Seasons Hotpot, 7.053, 5.970
+Lanson Place, 7.030, 4.712
+One E-com Center, 7.013, 3.636
+Six E-com Center, 7.007, 2.508
+LUXE Duty Free, 6.984, 1.718
+Pete's Place, 5.924, 5.970
+BDO MOA, 5.916, 4.747
+SM Hypermarket, 5.873, 3.679
+KFC MOA, 5.850, 2.525
+UV North Terminal, 5.838, 1.605
+Globe Rotonda North, 4.709, 1.579
+Globe Rotonda South, 3.443, 1.509
+Shell Residences, 4.480, 0.329
+SMDC Ice Tower, 4.022, 0.338
+MOA Eye, 2.383, 6.049
+S Maison, 2.366, 4.842
+SMX Convention Center, 2.354, 3.888
+IKEA, 2.348, 2.638
+MOA Arena, 2.320, 1.527
+Microtel, 0.687, 6.075
+NU MOA, 0.727, 4.851
+Shrine of Jesus, 0.767, 3.922
+MAAX, 0.864, 1.535
+cor Coral Way, 0.933, 0.138

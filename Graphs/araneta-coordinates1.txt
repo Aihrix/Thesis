@@ -1,0 +1,32 @@
+# Araneta network coordinates
+# delimiter ','
+Act Theater Building, 0.856, 6.918
+Puregold Cubao, 1.872, 6.918
+AIA, 3.081, 6.918
+Isetann Cubao, 5.736, 6.918
+Jollibee Manhattan, 6.956, 6.918
+Mercury Drug Cubao, 9.504, 6.918
+7-Eleven Gateway, 3.092, 6.408
+New Frontier Theater, 5.672, 6.439
+Manhattan Parkview, 6.994, 6.439
+Tropical Hut Cubao, 9.445, 6.416
+UV Express Terminal, 0.727, 5.540
+Farmers Plaza, 1.840, 5.525
+Ibis Styles Araneta, 3.076, 5.525
+KFC Shopwise, 5.666, 5.517
+Burger King Manhattan, 7.402, 5.555
+Savemore Cubao, 9.396, 5.555
+MRT Cubao, 0.637, 4.390
+Gateway 2, 3.033, 4.329
+BDO EDSA, 0.561, 2.798
+Farmers Market, 1.281, 2.852
+Farmers Garden, 3.049, 3.065
+Cyberpark Tower 2, 4.506, 2.204
+Telus, 4.506, 3.035
+Cyberpark Tower 1, 5.645, 3.080
+Cubao Transport Terminal, 7.365, 3.095
+Manhattan Heights, 9.246, 3.134
+cor P Tuazon, 0.448, 0.575
+SM Cubao, 5.640, 0.666
+Ali Mall, 7.316, 0.857
+Meralco Business Center, 9.552, 1.268

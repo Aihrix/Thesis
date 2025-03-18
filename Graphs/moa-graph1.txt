@@ -1,0 +1,55 @@
+# MOA network distance (in m) and travel time (in seconds)
+# delimiter ','
+Three E-com Center, Four E-com Center, 150, 105
+Three E-com Center, Sands by the Bay, 235, 165
+Three E-com Center, Two E-com Center, 148, 104
+Four E-com Center, SM Corporate Bldg. A, 190, 134
+Four E-com Center, Five E-com Center, 170, 120
+SM Corporate Bldg. A, Shore Residences 1, 178, 125
+SM Corporate Bldg. A, SM Corporate Bldg. B, 206, 145
+Shore Residences 1, Shore Residences 3, 233, 164
+Sands by the Bay, Two E-com Center, 138, 97
+Sands by the Bay, Four Seasons Hotpot, 167, 118
+Two E-com Center, Five E-com Center, 149, 105
+Two E-com Center, Lanson Place, 117, 82
+Five E-com Center, STSI, 123, 87
+Five E-com Center, One E-com Center, 158, 111
+STSI, SM Corporate Bldg. B, 56, 40
+STSI, Six E-com Center, 153, 108
+SM Corporate Bldg. B, Shore Residences 3, 160, 113
+SM Corporate Bldg. B, LUXE Duty Free, 155, 109
+Shore Residences 3, Shell Residences, 480, 338
+Four Seasons Hotpot, Lanson Place, 135, 95
+Four Seasons Hotpot, Pete's Place, 154, 108
+Lanson Place, One E-com Center, 137, 96
+Lanson Place, BDO MOA, 178, 125
+One E-com Center, Six E-com Center, 117, 82
+One E-com Center, SM Hypermarket, 153, 108
+Six E-com Center, LUXE Duty Free, 79, 56
+Six E-com Center, KFC MOA, 152, 108
+LUXE Duty Free, UV North Terminal, 154, 108
+Pete's Place, BDO MOA, 134, 94
+Pete's Place, MOA Eye, 473, 333
+BDO MOA, SM Hypermarket, 118, 83
+BDO MOA, S Maison, 472, 332
+SM Hypermarket, KFC MOA, 124, 87
+KFC MOA, UV North Terminal, 90, 63
+KFC MOA, IKEA, 447, 315
+UV North Terminal, Globe Rotonda North, 190, 134
+Globe Rotonda North, Globe Rotonda South, 273, 192
+Globe Rotonda North, Shell Residences, 400, 282
+Globe Rotonda South, SMDC Ice Tower, 400, 282
+Globe Rotonda South, MOA Arena, 142, 100
+SMDC Ice Tower, cor Coral Way, 437, 308
+MOA Eye, S Maison, 135, 95
+MOA Eye, Microtel, 242, 170
+S Maison, SMX Convention Center, 150, 106
+S Maison, NU MOA, 246, 173
+SMX Convention Center, IKEA, 80, 56
+SMX Convention Center, Shrine of Jesus, 218, 154
+IKEA, MOA Arena, 130, 92
+MOA Arena, MAAX, 192, 135
+Microtel, NU MOA, 78, 55
+NU MOA, Shrine of Jesus, 130, 92
+Shrine of Jesus, MAAX, 200, 141
+MAAX, cor Coral Way, 170, 120
